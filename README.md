@@ -25,7 +25,7 @@ Usage of this package is the exact same as the usage of Bulma. Differences are:
 
 ## Themes
 
-Themes work the same as with bulma themes. Just keep in mind that classnames are now is `camelCase`.
+Themes work the same as with bulma themes. Just keep in mind that class names are now is `camelCase`.
 
 If, for example, you want to add the `Cerulean` theme from [this repo](https://github.com/jenil/bulmaswatch/tree/gh-pages/cerulean), just do it as you would in bulma:
 
